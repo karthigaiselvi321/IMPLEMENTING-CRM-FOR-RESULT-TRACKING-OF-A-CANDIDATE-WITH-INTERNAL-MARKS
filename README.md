@@ -2,7 +2,7 @@
 
 PROJECT INTRO - https://drive.google.com/file/d/1SDg5GhoGNdU52_EJump2h_LYkNmk9u7c/view?usp=drivesdk
 
-PROJECT REPORT -
+PROJECT REPORT - https://github.com/karthigaiselvi321/IMPLEMENTING-CRM-FOR-RESULT-TRACKING-OF-A-CANDIDATE-WITH-INTERNAL-MARKS/blob/53566b5c4f124abcf0650dd66e7cf8fcd8b2d31f/PROJECT%20REPORT%20CRM.pdf
 
  
 Team Lead - https://trailblazer.me/id/karthigaiselvirdm
